@@ -7,4 +7,5 @@ How to use:
 3. You can delete walls/obstacles by holding down the right button on the mouse and dragging.
 
 The app isn't anywhere near perfect, and still has some issues.
+(Make sure you install pygame beforehand)
 
