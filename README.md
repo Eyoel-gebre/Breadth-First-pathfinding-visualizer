@@ -9,3 +9,5 @@ How to use:
 The app isn't anywhere near perfect, and still has some issues.
 (Make sure you install pygame beforehand)
 
+Please leave a start if you found it interesting.
+
