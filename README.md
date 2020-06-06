@@ -1,5 +1,5 @@
 # Breadth-First-pathfinding-visualizer
-A simple Pathfinding Visualizer that displays a 10 X 10 grid.
+A simple visualizer that shows how the breadth first path-finding algorithim works using a 10 X 10 grid.
 
 How to use:
 1. You can place start/end nodes by pressing the scroll wheel on your mouse. (sorry, but you must have a mouse to be able to use the app)
